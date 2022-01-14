@@ -1,0 +1,24 @@
+.navbar {
+    background-color: rgb(187, 206, 106);
+}
+
+.photo {
+    width: 140px;
+    height: 50px;
+    margin-left: 10px;
+}
+
+#quem-somos {
+    background-color: rgb(218, 91, 33);
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.photo-group {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+}
